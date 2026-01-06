@@ -159,7 +159,7 @@
     "@hapi/accept": "5.0.2",
     "@jest/transform": "29.5.0",
     "@jest/types": "29.5.0",
-    "@modelcontextprotocol/sdk": "1.18.1",
+    "@modelcontextprotocol/sdk": "1.25.1",
     "@mswjs/interceptors": "0.23.0",
     "@napi-rs/triples": "1.2.0",
     "@next/font": "16.1.1-canary.1",
