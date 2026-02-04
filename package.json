@@ -279,7 +279,7 @@
     "scheduler-builtin": "npm:scheduler@0.28.0-canary-65eec428-20251218",
     "scheduler-experimental-builtin": "npm:scheduler@0.0.0-experimental-65eec428-20251218",
     "seedrandom": "3.0.5",
-    "semver": "7.3.7",
+    "semver": "7.5.2",
     "serve-handler": "6.1.6",
     "shell-quote": "1.7.3",
     "strip-ansi": "6.0.0",
