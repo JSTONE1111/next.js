@@ -101,7 +101,7 @@
     "rimraf": "^3.0.2",
     "rxjs": "^6.5.2",
     "saslprep": "^1.0.3",
-    "semver": "^7.1.1",
+    "semver": "^7.5.2",
     "sequelize": "^5.9.3",
     "serialport": "^13.0.0",
     "sharp030": "npm:sharp@^0.30.0",
